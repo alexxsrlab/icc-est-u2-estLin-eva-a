@@ -5,7 +5,7 @@ import java.util.LinkedList;
 
 import java.util.Queue;
 
-import main.LogicaClasificacion;
+import main.LogicaClasificacion;   
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
